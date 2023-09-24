@@ -30,5 +30,8 @@ Click here for [Repo](https://github.com/saranyadurairaju/Module4-Final-Assignme
 
 Click here for [Repo](https://github.com/saranyadurairaju/Module3-Final-Assignment-Analysis)
 
+## AIML Cardio Good Fitness Project with Python & Visualization
 
+This project involves customer profile of the different products and we will be performing Univariate & Multivariate analysis. Generate a set of insights and recommendations that will help the company in targeting new customers. 
 
+Click here for [Repo](https://github.com/saranyadurairaju/AIML-Fundamentals)
